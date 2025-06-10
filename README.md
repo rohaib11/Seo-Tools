@@ -1,6 +1,7 @@
 
 # SEO Tools Web App
 
+
 ## Overview
 
 SEO Tools Web App is a powerful suite of tools designed to optimize your digital presence. The app provides a variety of utilities for unit conversion, binary conversion, online calculators, image editing, and PDF manipulation. This web application is built using **React** for the frontend and **Express.js** for the backend.
@@ -166,6 +167,40 @@ With a sleek and responsive design powered by **Material UI (MUI)**, SEO Tools e
 15. **Excel to PDF**
 
 ---
+## ScreenShots
+![image](https://github.com/user-attachments/assets/3f9783a5-d3f0-4685-9537-faea2ac093f9)
+
+![image](https://github.com/user-attachments/assets/31fdf912-bef1-4890-8fae-f5e5a2fd94b5)
+
+![image](https://github.com/user-attachments/assets/cd054e64-2fd3-4806-b8fd-5e9e3945d14e)
+
+
+![image](https://github.com/user-attachments/assets/f6425350-5012-4cce-b4c3-f6511b2e5e83)
+
+
+![image](https://github.com/user-attachments/assets/1462e119-889a-45bb-9bef-8fa60b7526f4)
+
+![image](https://github.com/user-attachments/assets/0edc1c10-8dc2-4424-b335-712e11b3d278)
+
+
+##  Example working 
+
+##  Unit Converter
+
+![image](https://github.com/user-attachments/assets/ee832ead-f537-4053-a398-40813d08623d)
+![image](https://github.com/user-attachments/assets/05421ce9-3401-42f8-90ee-f78176999c22)
+![image](https://github.com/user-attachments/assets/63f1c26c-0cb2-42e7-9b31-f70acdbe52dc)
+
+##  Binary Converter
+![image](https://github.com/user-attachments/assets/310e103b-684c-4548-ac4a-165eb9068f47)
+![image](https://github.com/user-attachments/assets/b730a317-2cdc-400c-adf4-47499c82beb1)
+![image](https://github.com/user-attachments/assets/8b6166b3-e4bc-4912-89d2-e3b72ac005ee)
+
+##  Online Calculators
+![image](https://github.com/user-attachments/assets/3d787cdb-24e7-4721-a6d2-9ac670c79eb1)
+![image](https://github.com/user-attachments/assets/e50b3f02-c9d5-451c-81ed-d05ce4e3196d)
+![image](https://github.com/user-attachments/assets/53fcebae-e948-440b-a949-0c219232ed68)
+
 
 ## Backend Setup
 
